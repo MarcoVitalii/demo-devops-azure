@@ -1,0 +1,5 @@
+version: '3'
+services:
+  my-lib:
+    build: .
+    entrypoint: ["pipenv","run","pytest"]

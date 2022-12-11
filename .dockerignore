@@ -1,0 +1,8 @@
+# Ignore everything
+**
+
+# ... except for dependencies and source
+!Pipfile
+!Pipfile.lock
+!demo_devops_azure
+!test
